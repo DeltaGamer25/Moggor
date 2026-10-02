@@ -1,5 +1,5 @@
 # Moggor
-Moggor is a VR game on Meta
+Moggor is a VR game comming soon on the Meta Horizon Store 
 
 
 
